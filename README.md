@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Al Mehedi Hasan</h1>
-<h3 align="center">I am a passionate data analyst with a knack for deriving actionable insights from complex datasets. I specialize in basic analytics techniques to solve real-world problems and drive informed decision-making. My journey in the realm of data analyst began with a fascination for uncovering patterns and trends within data. Over the time, I've honed my skills in data manipulation, data visualization, and decision making. I thrive on transforming raw data into meaningful narratives by developing interactive data visualizations.</h3>
+<h3 align="center" style="text-align: justify;">I am a passionate data analyst with a knack for deriving actionable insights from complex datasets. I specialize in basic analytics techniques to solve real-world problems and drive informed decision-making. My journey in the realm of data analyst began with a fascination for uncovering patterns and trends within data. Over the time, I've honed my skills in data manipulation, data visualization, and decision making. I thrive on transforming raw data into meaningful narratives by developing interactive data visualizations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al-mehedi-hasan-afridi&label=Profile%20views&color=0e75b6&style=flat" alt="al-mehedi-hasan-afridi" /> </p>
 
